@@ -1,0 +1,25 @@
+{
+ "impl": "python",
+ "stage": "replay",
+ "path": "data/slices/AAPL_12302019.itch",
+ "symbol": "AAPL",
+ "load_seconds": 0.353526625,
+ "operations": 1519871,
+ "best_seconds": 1.8604274580000002,
+ "median_seconds": 1.8902696250000002,
+ "worst_seconds": 1.8926811249999997,
+ "ops_per_sec_best": 816947.1985937544,
+ "ops_per_sec_median": 804049.845534602,
+ "latency_per_op": {
+  "p50_ns": 1083.0,
+  "p95_ns": 1791.0,
+  "p99_ns": 2125.0,
+  "p99_9_ns": 4167.0,
+  "max_ns": 2215125.0,
+  "mean_ns": 1107.015271
+ },
+ "latency_samples": 1000000,
+ "peak_rss_bytes": 233586688,
+ "timer_overhead_ns": 56.885210000001685,
+ "timer_resolution_ns": 41
+}

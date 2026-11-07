@@ -1,0 +1,55 @@
+{
+ "symbol": "AAPL",
+ "latency_us": 100,
+ "hold_s": 30,
+ "rows": [
+  {
+   "model": "conservative",
+   "orders": 1320,
+   "any_fill_pct": 76.66666666666667,
+   "full_fill_pct": 74.84848484848484,
+   "share_fill_pct": 75.35151515151514,
+   "median_time_to_first_fill_s": 3.976955881,
+   "mean_ahead_at_arrival": 245.83106060606062,
+   "median_ahead_at_arrival": 200.0,
+   "cancel_too_late": 988,
+   "through_fills": 610
+  },
+  {
+   "model": "optimistic",
+   "orders": 1320,
+   "any_fill_pct": 78.18181818181819,
+   "full_fill_pct": 76.51515151515152,
+   "share_fill_pct": 77.04242424242425,
+   "median_time_to_first_fill_s": 3.579739972,
+   "mean_ahead_at_arrival": 245.83106060606062,
+   "median_ahead_at_arrival": 200.0,
+   "cancel_too_late": 1010,
+   "through_fills": 475
+  },
+  {
+   "model": "proportional",
+   "orders": 1320,
+   "any_fill_pct": 78.10606060606061,
+   "full_fill_pct": 75.45454545454545,
+   "share_fill_pct": 76.5340909090909,
+   "median_time_to_first_fill_s": 3.596599188,
+   "mean_ahead_at_arrival": 245.83106060606062,
+   "median_ahead_at_arrival": 200.0,
+   "cancel_too_late": 996,
+   "through_fills": 554
+  },
+  {
+   "model": "identity",
+   "orders": 1320,
+   "any_fill_pct": 77.1969696969697,
+   "full_fill_pct": 75.45454545454545,
+   "share_fill_pct": 75.9,
+   "median_time_to_first_fill_s": 3.886986476,
+   "mean_ahead_at_arrival": 245.83106060606062,
+   "median_ahead_at_arrival": 200.0,
+   "cancel_too_late": 996,
+   "through_fills": 570
+  }
+ ]
+}

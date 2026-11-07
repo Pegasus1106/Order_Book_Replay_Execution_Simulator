@@ -1,0 +1,8 @@
+seed 0 anomalies=0.0: OK  frames=159,993 unknown_ref=0 dup=0 qty_inc=0 malformed=0 crossed_ep=2 checksum=357a9a1023eece7f
+seed 1 anomalies=0.02: OK  frames=158,638 unknown_ref=759 dup=37 qty_inc=77 malformed=343 crossed_ep=4 checksum=b1f770c3ae59d00d
+seed 2 anomalies=0.0: OK  frames=159,800 unknown_ref=0 dup=0 qty_inc=0 malformed=0 crossed_ep=2 checksum=fbd6305492ca4b8a
+seed 3 anomalies=0.02: OK  frames=158,520 unknown_ref=763 dup=50 qty_inc=82 malformed=338 crossed_ep=5 checksum=6acdcba2946eded2
+seed 4 anomalies=0.0: OK  frames=159,881 unknown_ref=0 dup=0 qty_inc=0 malformed=0 crossed_ep=1 checksum=0dbba675d4275d67
+seed 5 anomalies=0.02: OK  frames=158,812 unknown_ref=719 dup=42 qty_inc=65 malformed=364 crossed_ep=4 checksum=0339247751317fed
+seed 6 anomalies=0.0: OK  frames=159,914 unknown_ref=0 dup=0 qty_inc=0 malformed=0 crossed_ep=5 checksum=430579428b3d7cec
+seed 7 anomalies=0.02: OK  frames=158,827 unknown_ref=718 dup=37 qty_inc=67 malformed=346 crossed_ep=4 checksum=4243970601cc6818

@@ -1,0 +1,25 @@
+{
+ "impl": "python",
+ "stage": "replay",
+ "path": "data/slices/SPY_12302019.itch",
+ "symbol": "SPY",
+ "load_seconds": 0.506814334,
+ "operations": 2138938,
+ "best_seconds": 2.5845817920000003,
+ "median_seconds": 2.6174796670000005,
+ "worst_seconds": 2.638258375,
+ "ops_per_sec_best": 827576.0537432432,
+ "ops_per_sec_median": 817174.6382471515,
+ "latency_per_op": {
+  "p50_ns": 1083.0,
+  "p95_ns": 1458.0,
+  "p99_ns": 1917.0,
+  "p99_9_ns": 6042.0,
+  "max_ns": 2451875.0,
+  "mean_ns": 1062.339161
+ },
+ "latency_samples": 1000000,
+ "peak_rss_bytes": 270876672,
+ "timer_overhead_ns": 52.85812500000375,
+ "timer_resolution_ns": 41
+}

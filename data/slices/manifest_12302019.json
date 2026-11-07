@@ -1,0 +1,48 @@
+{
+ "source": "data/12302019.NASDAQ_ITCH50.gz",
+ "seconds": 65.588836583,
+ "slices": {
+  "AAPL": {
+   "locate": 13,
+   "path": "data/slices/AAPL_12302019.itch",
+   "frames": 1519871,
+   "bytes": 46286421,
+   "sha256": "91be7ee5ce4eef608bbeeff784b1446b46ec6efbc9d1640f4ac0294b51d5f47d"
+  },
+  "AMD": {
+   "locate": 344,
+   "path": "data/slices/AMD_12302019.itch",
+   "frames": 1512680,
+   "bytes": 45111950,
+   "sha256": "3861915eaaa73f2af9ef7f88ca5ae778bafe3f8fc25c253cada77347ff702070"
+  },
+  "INTC": {
+   "locate": 4184,
+   "path": "data/slices/INTC_12302019.itch",
+   "frames": 753349,
+   "bytes": 22786901,
+   "sha256": "ee5ad7fdca4c18cdac2065285cd718c282ae82c89ea3230bff15c1b6773df094"
+  },
+  "MSFT": {
+   "locate": 5291,
+   "path": "data/slices/MSFT_12302019.itch",
+   "frames": 1221484,
+   "bytes": 36901122,
+   "sha256": "309d94558eaeff7c432a64498570dc37b9ece23cb5974423215413af9f3eb42d"
+  },
+  "NIO": {
+   "locate": 5537,
+   "path": "data/slices/NIO_12302019.itch",
+   "frames": 754038,
+   "bytes": 23689635,
+   "sha256": "3fb244f79c244b879c308e2f8c00c14cce911f403c4c63e2cda4f53b2c4375eb"
+  },
+  "SPY": {
+   "locate": 7451,
+   "path": "data/slices/SPY_12302019.itch",
+   "frames": 2138938,
+   "bytes": 64426611,
+   "sha256": "e3386633a1462dc1a71a1555a09232a53f600c5a3554fd9ec914052dd78fa26a"
+  }
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "impl": "python",
+ "stage": "e2e",
+ "path": "data/slices/SPY_12302019.itch",
+ "symbol": "SPY",
+ "checksum": "68876dbf6ca21137",
+ "operations": 2138938,
+ "best_seconds": 3.169938958,
+ "median_seconds": 3.172171167,
+ "worst_seconds": 3.213700416,
+ "ops_per_sec_best": 674756.8418003587,
+ "ops_per_sec_median": 674282.0255890687,
+ "latency_per_op": {},
+ "latency_samples": 0,
+ "peak_rss_bytes": 80003072,
+ "timer_overhead_ns": 53.67957999999895,
+ "timer_resolution_ns": 41
+}

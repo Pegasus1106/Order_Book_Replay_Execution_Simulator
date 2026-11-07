@@ -1,0 +1,4 @@
+3 identical-input replays -> same checksum, checkpoints and counters: True  (de452f8c0915affa)
+restore snapshot at frame 500,000 and resume -> final state equals uninterrupted run: True  (de452f8c0915affa vs de452f8c0915affa)
+replay from mid-stream with an empty book is refused: True
+first 30,000 frames at 1000x speed (23.23s wall) vs as-fast-as-possible: same state: True

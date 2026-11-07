@@ -1,0 +1,17 @@
+{
+ "impl": "python",
+ "stage": "frame",
+ "path": "data/slices/AAPL_12302019.itch",
+ "symbol": "AAPL",
+ "operations": 1519871,
+ "best_seconds": 0.362249834,
+ "median_seconds": 0.363222375,
+ "worst_seconds": 0.36864362500000003,
+ "ops_per_sec_best": 4195643.054456169,
+ "ops_per_sec_median": 4184409.0689622303,
+ "latency_per_op": {},
+ "latency_samples": 0,
+ "peak_rss_bytes": 76152832,
+ "timer_overhead_ns": 51.7860399999992,
+ "timer_resolution_ns": 41
+}

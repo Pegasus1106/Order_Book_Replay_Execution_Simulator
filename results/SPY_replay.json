@@ -1,0 +1,125 @@
+{
+ "impl": "python",
+ "frames": 2138938,
+ "checksum": "68876dbf6ca21137",
+ "orders": 0,
+ "wall_seconds": 3.254186375,
+ "msgs_per_sec": 657288.106308908,
+ "first_ts": 11072057543747,
+ "last_ts": 72300000040070,
+ "session_start_seen": true,
+ "counters": {
+  "add": 991829,
+  "exec": 41198,
+  "exec_px": 1437,
+  "cancel": 19861,
+  "delete": 960499,
+  "replace": 117317,
+  "exec_shares": 6277597,
+  "cancel_shares": 3290730,
+  "unknown_ref": 0,
+  "unknown_ref_exec": 0,
+  "unknown_ref_cancel": 0,
+  "unknown_ref_delete": 0,
+  "unknown_ref_replace": 0,
+  "duplicate_ref": 0,
+  "qty_inconsistency": 0,
+  "qty_excess_exec": 0,
+  "qty_excess_cancel": 0,
+  "zero_qty_event": 0,
+  "bad_side": 0,
+  "symbol_mismatch": 0,
+  "locked_episodes": 0,
+  "crossed_episodes": 0,
+  "events_while_locked": 0,
+  "events_while_crossed": 0,
+  "max_locked_ns": 0,
+  "max_crossed_ns": 0,
+  "total_locked_ns": 0,
+  "total_crossed_ns": 0,
+  "invariant_failures": 0,
+  "frames": 2138938,
+  "malformed_messages": 0,
+  "unknown_message_type": 0,
+  "locate_mismatch": 0,
+  "informational_messages": 6789,
+  "bad_frames": 0,
+  "truncated_tail_bytes": 0
+ },
+ "types": {
+  "A": 991623,
+  "C": 1437,
+  "D": 960499,
+  "E": 41198,
+  "F": 206,
+  "H": 1,
+  "I": 450,
+  "L": 39,
+  "P": 6297,
+  "Q": 2,
+  "R": 1,
+  "S": 6,
+  "U": 117317,
+  "X": 19861,
+  "Y": 1
+ },
+ "checkpoints": [],
+ "invariant_errors": [],
+ "anomaly_samples": [],
+ "system_events": [
+  [
+   1,
+   11072057543747,
+   "O"
+  ],
+  [
+   44,
+   14400000198145,
+   "S"
+  ],
+  [
+   34796,
+   34200000075566,
+   "Q"
+  ],
+  [
+   2104066,
+   57600000071785,
+   "M"
+  ],
+  [
+   2138914,
+   72000000019686,
+   "E"
+  ],
+  [
+   2138938,
+   72300000040070,
+   "C"
+  ]
+ ],
+ "trading_events": [
+  [
+   3,
+   11355134575401,
+   "SPY",
+   "T"
+  ]
+ ],
+ "final_snapshot": {
+  "ts": 72000075190726,
+  "best_bid": null,
+  "best_bid_size": null,
+  "best_ask": null,
+  "best_ask_size": null,
+  "spread": null,
+  "orders": 0,
+  "bid_levels": 0,
+  "ask_levels": 0,
+  "bids": [],
+  "asks": []
+ },
+ "snapshots_taken": 34,
+ "paused_seconds": 0.0,
+ "stopped_early": false
+}

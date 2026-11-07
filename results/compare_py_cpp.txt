@@ -1,0 +1,6 @@
+AAPL: EQUIVALENT  frames=1,519,871 checksum=68876dbf6ca21137 checkpoints=15 orders=0 state_dump_identical=True  py=2.5s cpp=0.07s
+MSFT: EQUIVALENT  frames=1,221,484 checksum=68876dbf6ca21137 checkpoints=12 orders=0 state_dump_identical=True  py=1.9s cpp=0.04s
+SPY: EQUIVALENT  frames=2,138,938 checksum=68876dbf6ca21137 checkpoints=21 orders=0 state_dump_identical=True  py=3.3s cpp=0.06s
+AMD: EQUIVALENT  frames=1,512,680 checksum=68876dbf6ca21137 checkpoints=15 orders=0 state_dump_identical=True  py=2.3s cpp=0.04s
+INTC: EQUIVALENT  frames=753,349 checksum=68876dbf6ca21137 checkpoints=7 orders=0 state_dump_identical=True  py=1.2s cpp=0.02s
+NIO: EQUIVALENT  frames=754,038 checksum=68876dbf6ca21137 checkpoints=7 orders=0 state_dump_identical=True  py=1.2s cpp=0.02s

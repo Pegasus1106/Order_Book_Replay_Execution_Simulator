@@ -1,0 +1,7 @@
+data/*.gz
+data/slices/*.itch
+cpp/itch_replay
+cpp/itch_replay_asan
+cpp/*.dSYM
+__pycache__/
+results/tmp*/
